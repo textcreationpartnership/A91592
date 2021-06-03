@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quærees [sic] on the proposalls of the officers of the Armie,  to the Parliament of the Common-wealth of England, &amp; tending towards the clearing and settlement of the constitution, for securing the peace of the three nations.</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91592</idno><idno type="EEBO-CITATION">99863320</idno>
+  <idno type="VID">115512</idno>
+  <idno type="EEBO-PROQUEST">2240894963</idno>
+  
+            <idno type="STC">Wing Q170</idno>
+            <idno type="STC">Thomason E984_3</idno>
+            <idno type="STC">ESTC R203345</idno>
+            <idno type="PROQUEST">99863320</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863320e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115512)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E984[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Quærees [sic] on the proposalls of the officers of the Armie,  to the Parliament of the Common-wealth of England, &amp; tending towards the clearing and settlement of the constitution, for securing the peace of the three nations.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year of our Lord, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 27"; "May. 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  History, (17th century) --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="41" facs="tcp:115512:1"/>
+            <head>
+               <hi>The Faithfull SCOUT:</hi>
+               <note place="margin">
+                  <hi>Numb.</hi> 6.</note>
+               <hi>Impartially Communicating The most remarkable Intelligence, From all Christian Kings, Princes, States, and Common-Wealths: Containing these ensuing Particulars,</hi> viz. The Declaration, Proposals, Claim, and Speeches, of Mr. <hi>William Pryn,</hi> and Mr. <hi>Ansley,</hi> in order to the proceedings of Parlia<g ref="char:EOLhyphen"/>ment and Army. And Mr. <hi>Hugh Peter's</hi> Darting-Arrow touching the same. The New Instrument of the Times out of Tune; and a Prodigious Birth of Gentlemen still-born. The Levellers Remonstrance, and the Young-men and Apprentices of the Borough of Southwarks Proposals. The Prophesie of M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Lillie</hi> concerning these Times. The Orders and Resolves of Parl. for the raising of Money, where, and how; and a Vote to the Souldiery what they must trust unto. With a Narrative from the English Fleets, and a great Rising in the Netherlands.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>From</hi> Friday, <hi>May 27. to</hi> Friday, <hi>June</hi> the <hi>3d, 1659.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <div type="part">
+               <head>Beginning <hi>May</hi> the <hi>27.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>Here is not any thing in the Universe deserves l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sse to be a Member of it, then a self-seek<g ref="char:EOLhyphen"/>ing Man, who unconcern'd io the publick Good, regards onely his private Interest. The World unwillingly contributes to his maint<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nance; and Nature lesse abhors a <hi>Vacuum,</hi> then that any place should be filled by a Subj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct so empty of desert.
+<pb n="42" facs="tcp:115512:2"/> He is a savage Creature in the midst of civil people, not deserving to be born of others, as not caring to live, but for himself. Nay, it is worthily reputed a kind of civil death, to do not<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing else but live: for as long as we have a Coun<g ref="char:EOLhyphen"/>try to abide in, we have a Duty to tend<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it. All we have, we have from it; and by consequence owe it all we have. Our Lives and Fortune are safest, when ventured for the pub<g ref="char:EOLhyphen"/>lick Interest; and he is the truest Lover of Law and Liber<g ref="char:EOLhyphen"/>ty, that affects rather to be ruled, then to rule. This is a truth so manifest, and not to be dissembled, that never yet was there a Tyrant, but he pretended to be a Saviour of the peo<g ref="char:EOLhyphen"/>ple. <hi>Religion, Liberty, Conscience,</hi> and the <hi>Peoples Freedom,</hi> are specious Names to be made use of. But these <hi>Machiavilian Tricks,</hi> and <hi>political Cheats,</hi> so often put upon the people of our Nation, (in precedent years) me thinks should have by this time undeceived us with a sad experience of the mise<g ref="char:EOLhyphen"/>ries we have subjected our selves to, by a perpetual itch of reforming, annulling, creating Laws, and framing new Go<g ref="char:EOLhyphen"/>vernments to the Model of a late subtil and Grandees Am<g ref="char:EOLhyphen"/>bition: As for instance, From <hi>Monarchie,</hi> to <hi>Democacie;</hi> thence to a new kind of <hi>Protector;</hi> thence, <hi>to Praise God Bare bones little Parliament;</hi> thence, <hi>to a Protector with an Instrument, but never in tune;</hi> thence, to a pretty <hi>Crochet,</hi> called <hi>The Petition and Advice;</hi> thence, to a <hi>New Protector, and two Houses of Parliament, whereof one was still-born:</hi> Thus after a long march from one <hi>Government</hi> to another, the poor people being even wearied out, by the heavy Burden that lay upon their Shoulders, are now returning (by the good Hand of Provi<g ref="char:EOLhyphen"/>dence) into a happy and Free-State, the most purest Govern<g ref="char:EOLhyphen"/>ment under Heaven, where all things (we hope) will be duly weighed in the Scales of Equity and Justice, and be<g ref="char:EOLhyphen"/>come instrumental for the awakening the Drowsie Consci<g ref="char:EOLhyphen"/>ences of many supplanting Gentlemen, who like a head<g ref="char:EOLhyphen"/>less Head, and Usurping Rulers, endeavour to usurp upon
+<pb n="43" facs="tcp:115512:2"/> the Peoples Rights, and Priviledges, by introducing sun<g ref="char:EOLhyphen"/>dry spangled and plausible Motives, to alienate the Affecti<g ref="char:EOLhyphen"/>ons of the <hi>Good People</hi> of this <hi>Nation,</hi> from their due <hi>Obedience,</hi> being diametrically opposite, to whatsoever is called the <hi>Present Power;</hi> presenting the world with <hi>Paper-Rattles,</hi> to imbrue their hands in blood, and that by sundry specious Inducements, <hi>For the people to venture Life and Fortunes, in re<g ref="char:EOLhyphen"/>ducing the true and lawful Heir to his possessions, and no longer to cast off their lawful King and Soveraign.</hi> Certainly, it is mat<g ref="char:EOLhyphen"/>ter of great admiration, that the <hi>product</hi> of such <hi>Malapert Brains,</hi> should hatch and contrive such <hi>trapanning Axiomes;</hi> though, indeed, Mr. <hi>Pryn</hi> is pleased to declare otherwise, af<g ref="char:EOLhyphen"/>firming, <hi>That there is no Government like unto King, Lords, and Commons, and that he is resolved to live and die in the Legal Vin<g ref="char:EOLhyphen"/>dication of those ancient and indubitable Rights.</hi> For, saith he, <hi>Let young men serve their Countrey with their strength and arms, and old men secure it by their Heads and Counsel; for my part, I desire to live no longer, then I can in some sort contribute to so glo<g ref="char:EOLhyphen"/>rious a Work.</hi> Bravely resolv'd, Sir! But I beseech you, le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Reason</hi> rule your <hi>Passion,</hi> lest impardonable instability be im<g ref="char:EOLhyphen"/>puted to the loss of a <hi>Sufferer</hi>'s two <hi>Biasses;</hi> for note, if a <hi>Bowle's</hi> deviation from the <hi>Jack</hi> is occasioned hereby, much more a rational Creature's <hi>à fortiori.</hi> But I shall no longer at present, insist upon the Dialect; neither will I trace the steps of this invincible <hi>Lawyer</hi> any longer; for certainly, mighty is the mans Courage, and great his Prowess, who dares attempt to notifie such things in the Face of <hi>Authority,</hi> even in this Juncture of Settlement, where most prudent and serene Spirits are now steering the great ship of the <hi>Common wealth,</hi> to bring her to the Haven and Harbour of a <hi>Free-State.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Saturday,</hi> May 28.</head>
+               <p>This day represents variety of Transactions from several parts, <hi>viz.</hi> The <hi>Hollander</hi> seems invincible at Sea, by reason
+<pb n="44" facs="tcp:115512:3"/> of their great Armado in Shipping, representing no less then a mighty Wood upon the <hi>Neptune Ocean;</hi> and the King of <hi>Sweden</hi> appears as full of <hi>Princely Courage,</hi> as <hi>Magnanimity of Spirit,</hi> whose <hi>Valour and Courage,</hi> will doubtless take no small reflection, upon the greatest of his Enemies Action.</p>
+            </div>
+            <div type="part">
+               <head>Monday May <hi>30.</hi>
+               </head>
+               <p>By an express from the <hi>Hague</hi> thus, This morning, there went two Companies of the Guards from hence to <hi>Goyland,</hi> for the stilling of some Tumults arisen at <hi>Narden,</hi> occasioned by an Insurrection of the common sort against a certain Boor that trades in Turff, and who sold by a lesse measure than is usually thereabout. The Lords States are resolved to do exemplary justice upon the Leaders of this Rout.</p>
+               <p>Our Fleet that are gone <hi>Northward,</hi> are by their Instructions, to ob<g ref="char:EOLhyphen"/>serve the agreement made by the French Ambassador here residing, the Resident of <hi>England,</hi> and the Commissioners of the Lords States of the United Provinces, wherein these particulars are provided; <hi>viz.</hi> That when the Fleets of both Nations do meet in the Zound, they shall carry themselves toward each other in friendly manner; That as soon as they arrive, a Proposition of Treaty shall be joyntly made to the two Kings of <hi>Sweden</hi> and <hi>Denmark;</hi> that one and twenty dayes b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the term of time limited for the said Treaty; That in the mean while, the <hi>Holland</hi> Fleet shall not attempt the putting of any succour into <hi>Coppenhagen,</hi> nor shall the English do the like to either party; and the Commande<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and publick Ministers, both <hi>English</hi> and <hi>Hollanders,</hi> shall use their utmost endeavours to bring the two Kings to agree, (if it may be) upon the Terms concluded by the publick Ministers here at the <hi>Hague.</hi> Some conceiving the King of <hi>Denmark</hi> hath so bound himself by agreement formerly made, that he cannot give ear to any particular peace, without the consent of his Friends and Confederates, to wit, the Emperor, the King of <hi>Poland,</hi> and the Prince Elector of Brandenburgh; so that perhaps the present Endeavor may be fruit<g ref="char:EOLhyphen"/>less, and an accomodation not to be brought about without a general Treaty, wherein the Confederates shall be comprehended.</p>
+               <p>The <hi>Portugal</hi> Ambassador, is revolted from his Allegeance, and is retired to his old Master the King of <hi>Spain,</hi> to make his peace; but his Secretary stayd here, desiring protection from the States, which is granted, and a Guard assigned. We hear, that Gen. <hi>Turene</hi> hath divided his Army into two Bodies; and that <hi>Dunkirk</hi> is made invincible, and no wayes besieged.</p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:115512:3"/>
+               <head>Tuesday, May <hi>30.</hi>
+               </head>
+               <p>The young men and Apprentices of the Borough of <hi>Southwark,</hi> have addressed themselves to the Parliament, humbly representing these ensuing particulars:</p>
+               <p n="1">I. That you will seriously ruminate and d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bate, whether it will best consist with the good and safety of these Nations, and the people of God, therein, only to be governed by Parliaments popularly elected in number and manner as formerly, or whether some more expedient way may not be found out, whereby we may not be made o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>noxious to the danger of inte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vals, perpetua<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iaments wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hout provision for successive, haz rd <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f chusi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g through the giddiness of the multi<g ref="char:EOLhyphen"/>tude, fit able and honest me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p n="2">II. That for the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dva<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce of Trade, we humbly conceive it will be very requisite, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> some expe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ient way be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> out, whereby every person so cho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en (to govern) as you shall appoint, may be engaged to take care thereof w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich of late hath been very much neglected to the great impove<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ishing and undoing of many persons and Families a<g ref="char:EOLhyphen"/>mongst us, and most part of the Nation.</p>
+               <p n="3">III. That constant care may be taken that the Militia of the Nati<g ref="char:EOLhyphen"/>on may be put into such mens hands as are of known honesty and in<g ref="char:EOLhyphen"/>tegrity to the Commonwealth, not respecting their private Judge<g ref="char:EOLhyphen"/>ments and Opinions.</p>
+               <p n="4">IV. That the Magistrates power, may not extend to bind or enslave the Consciences of any good and peaceable People of these Nations in matters of religious concernment.</p>
+               <p n="5">V. That the publick Revenues and Imployments may be contra<g ref="char:EOLhyphen"/>cted into as few hands as may be, that so the less may be expended in Sallaries.</p>
+               <p n="6">VI. That the Law may be regulated, and (if it may be) brought into one Volume, that thereby every one may know his duty, and wherein he shall be accounted a Transgressor.</p>
+               <p n="7">VII. That therein you will order a way, whereby differences may more facily and speedily be decided, and Creditors not be defrauded by their responsible Debtors.</p>
+               <p>And in your Honours doing these, or some better things for us, unto this our mite of desire, we shall add our other of Endeavours, That you may be secured from any Malignant opposition or interruption, and ever pry that God will bless, guide and prosper you to his glory, your own everlasting Renown, the good of these poor distressed Nations, and of your humble Petitioners.</p>
+            </div>
+            <div type="part">
+               <pb n="46" facs="tcp:115512:4"/>
+               <head>
+                  <hi>Wednesday,</hi> June 1.</head>
+               <p>Letters (this day) from <hi>Flanders</hi> purport, That great pre<g ref="char:EOLhyphen"/>parations are making by the <hi>Spaniards,</hi> for this Summers Campaigne; and many Regiments have already taken the field; amongst the rest, a Brigade of <hi>English, Scots,</hi> and <hi>Irish,</hi> under the Condust of the Duke of <hi>York,</hi> so called, &amp; of high esteem in those parts: next to him his Brother <hi>Henry</hi> com<g ref="char:EOLhyphen"/>mands in Chief, and the young Lord <hi>Caracene</hi> the Infantry. Capt. <hi>Brewer,</hi> and Capt. <hi>Stevens,</hi> (both <hi>English-men</hi>) are Commissionated for the <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ratine Affairs,</hi> two expert and able Sea-men; having (as 'tis said) Seven Frigats under their Command, carrying about 24 Guns a piece.</p>
+               <p>By a Letter dated from aboard the <hi>Charundown</hi> Frigat in the <hi>Downs,</hi> it is advertized, That a great Dispute hath hap<g ref="char:EOLhyphen"/>ned between the said Frigat, and a <hi>Spanish</hi> Man of War, near <hi>Ostend;</hi> which was maintained with great Resolution on both sides, the <hi>Spaniards</hi> being above 350 aboard, stout soul<g ref="char:EOLhyphen"/>diers, and well resolv'd, being highly incouraged by the <hi>new Governour</hi> of <hi>Ostend;</hi> but after several Salutes from the roa<g ref="char:EOLhyphen"/>ring Canon, the <hi>English</hi> laid them aboard, seizing the said Governour, and about Three Hundred and Fifty Officers and souldiers, with little losse, but great to the Enemy, having taken no small quantity of Arms and Ammunition, but plenty of provision, and other rich booty. The said Fri<g ref="char:EOLhyphen"/>gat, with two more, are now bound again to the coast of <hi>O<g ref="char:EOLhyphen"/>stend,</hi> to attend the motion of some other Men of War.</p>
+            </div>
+            <div type="part">
+               <head>Westminster May 31.</head>
+               <p>The Parl. have further ordered, That power be given to the Committee to whom the business touching the Forrests is referred, to enquire what Timber hath bin car<g ref="char:EOLhyphen"/>ried from the Lands of the Commonwealth; where the said Timber is, who carry<g ref="char:EOLhyphen"/>ed it thither, by whom the said Timber hath been bought and sold, and by what Authority they have done the same, and report it to the House.</p>
+               <p>One thing I cannot omit, which is both Remarkable and Truth, That the Good Old Man, Minister of Lesbury, near Newcastle, aged 112 years; after a great dimness of sight, his Teeth all out, and his Head bal'd, predicted, That upon the renewing thereof, and a little before his death, Englands Freedom would revive; which is as<g ref="char:EOLhyphen"/>suredly come to pass: For upon the 19th instant, he died, being aged 114. having
+<pb n="47" facs="tcp:115512:4"/> his perfect Eye-sight, 18 Teeth, and his Head grown over with Ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</p>
+               <p>From Amsterdam they write, that their Fleet consisting of 50 men of war, and the Merchants ships for Greenland being about 160, and 60 Fluyts, each being hired for 1000 Gilders, to go to the Zound with the Fleet, are near the Scaw; &amp; that another Fleet belonging to Zealand, are also gone after them, commanded by Ca. Brankert. The Accord made by the Fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nch Ambassador, English Resident, a d Holland Lords, for a peace between the Kings of Sweden and Denmark, is subscri<g ref="char:EOLhyphen"/>bed; and two Messengers sent to the English and Dutch Admirals, to act according to the Terms of the said Accord. But before their arrival, some action hapned be<g ref="char:EOLhyphen"/>tween the Swedish and Danish Men of War, in which Engagement, three Danish ships were sunk, and 4 extreamly rent and torn.</p>
+               <p>The Committee appointed for the Examination of Witnesses, about Col. <hi>Jones</hi> in the Speakers Chamber, met according to Or<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r, and the Witnesses being sworn, they proceeded to Examination, which is to be reported to the House. The grand Committee also have made some progress into the Bill of Indempnity &amp; Oblivi<g ref="char:EOLhyphen"/>on; And the House have had under consideration the settlement of the Officers of the Army, <hi>viz.</hi> Lieu. Gen. Fleetwoods Reg. of foot, Maj. Gen. Lamberts Reg. of foot, Lieu. Gen. Ludlows Reg. Maj. Gen. Lamberts Reg. of horse. Col. Lilburns Reg. Col. Berry's Reg. And Col. Hackers Reg. The Treaty between the States of England, and the States of Holland, is referred to the Council of State, to proceed in the managing as they think fit, upon the G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ounds &amp; Proposals presented to the House, and to make Report thereof for the Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. approbation The Humble Petition of the Spanish Merchants trading to the Dominions of the K. of Spain, was read in the House, and care taken to answer their Desires. The House being informed that other Petitioners were at the door, they were called in, and Mr. <hi>Tulse,</hi> and another Gentleman at the Bar of the House, made two excellent Speeches, setting forth the Wonderful Providences of God in the Revolution of late Years, and his mira<g ref="char:EOLhyphen"/>culous delivering the people of this Nation, and breaking the Yoke of our Op<g ref="char:EOLhyphen"/>pressours, who hath skin'd the People to clothe themselves; as also, of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>estoring the Power and Authority of the Nation to the people, whose undoubt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d rig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t it is; and to the place, from whence they have been by force and injustice a long time re<g ref="char:EOLhyphen"/>strained, merely by the Lust and Ambition of Usurpation, &amp;c.</p>
+               <p>These experienced Truths, are more <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mply demonstrated, in the Address and Pe<g ref="char:EOLhyphen"/>tition of the Baptised Congregation assembled at Alisbury on beh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lf of themselv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and the several Congregations they a e related to in Kent, Sussex, Surrey, Hampsh. Dorsetshi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, Somerset, Be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks, Wilts, Bucks, Hertford, Bedford, Northampton, Devon Nottingham, Lincoln, and Herefordshire. To which, the House returned Answer by Mr. Speaker, That they had already some of the particulars under consid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rati<g ref="char:EOLhyphen"/>on; and that they have a serious Resolve, not onely of the settlement of the Nati<g ref="char:EOLhyphen"/>on in the Name, but also in the Nature of a Common-wealth. And for the Peti<g ref="char:EOLhyphen"/>tioners good Affections, the Ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se commanded Mr. Spe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ker to g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve them Thanks, which He did accordingly.</p>
+               <p>The Parl. have ordered that care be taken for payment of the poor Pensioners, that is to say, poor Widows, and lame Sould<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:115512:5"/>
+               <head>Thursday, June 2.</head>
+               <p>The Parliament have made a further progress into the Bill for Indempnity and Oblivion; from whose Results, a firm Basis of the Peoples Rights and Liberties is expected: <hi>Never more need!</hi> And in order thereunto, the Grand Committee are appointed to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> on Saturday morning next about setling the Government. They have also ordered, That the whole Profits and Fees arising by the Office of the Keeper of the Great Seal, be sequestred for the use of the Commonwealth, to be paid into the Publick Treasury. They have also resolved, That the Court of Chancery be throughout reformed and regulated. And have declared, That Col. Wauton, Col. Morley, Col. Salmon, Col. Kelsey, and Col. Clerk, be added to the Commissioners, for managing the Affairs and Admiralty of the Navy of this Commonwealth. They have also appointed several Captains for the ships now preparing to go to Sea, <hi>viz.</hi> Capt. Vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e-Admiral Lawson, Cap. of the James. For the Bristol, Cap. Dawkins. For the Yarmouth, Cap. Mackey. For the Hampshire, Cap. Fen. For the Kentish, Capt. Hannam. For the Providence, Cap. Shelley. They have further ordered, That the Committee for Inspection of the Treasury do report to the House the present state o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Treasury, what monies are in Cash, what supplies of money are necessary for carrying on the present Affairs, &amp; by what ways or means present monies may be raised by sale of For<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sts or otherwise. And it is ordered, That what monies are or shall be so raised, do go to the payment of the Army and Navy, and other publique Conti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gencies. And the said Committee are authorised to receive any Proposition that shall be tendered to them for raising of present Monies, and report their opi<g ref="char:EOLhyphen"/>nion therein to the House. The Parl. have further ordered and declared, That in re<g ref="char:EOLhyphen"/>spect of the extraordinary duty and expence the private souldiers are put to in the Cities of London and Westminster, that the Foot shall have one peny a day, &amp; the Horse three pence a day added to their now pay, to those onely that perform Du<g ref="char:EOLhyphen"/>ty, and attend the Parliament in the parts a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oresaid.</p>
+               <p>As touching the publick Affairs and Interest of the Nation, from Mr. Lilly we have this Calculation, That in the midst of these great Vicissitudes and Turnings, the despised people called Levellers, will appear obvious for publick Liberty and Freedom, holding nothing more criminous and detestable, then Usurpation, Treason, and Tyranny over the P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ople, by swallowing up the antient Liberties and proper<g ref="char:EOLhyphen"/>ties of the Nation. For recovery whereof, a Remonstrance is drawing up by the As<g ref="char:EOLhyphen"/>ser<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ors of England's Liberties, to be presented to the Parliament; and it is hoped their Honou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s will acquiesce therein, for restoring of our long-lookt for, languish<g ref="char:EOLhyphen"/>ing, and infringed Birth-Rights.</p>
+               <p>Mr. Hugh Peters hath declared a high sence of the peoples miseries, by the Ar<g ref="char:EOLhyphen"/>bi rary tra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng upon the Authority of Parliaments; and the gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at Animosities, Discontents, and Self ends introduced thereby, to the sad &amp; woful decay of T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade, and the ruine of many thousands poor perishing Souls for want thereof.</p>
+               <p>Upon the Convention of this present Session of Parl. Mr. Pryn, and Mr. Hunger<g ref="char:EOLhyphen"/>ford went to the House, where after admittance, a long Dispute arose; insomuch that being excluded, they made their Claim to sit as members of that Publike Counsel, and not to merit an exclusion, being not conscious of any breach of Trust; but the contrary appearing obvious, it was denied, and the Inner door of the House gu rded; which proved as great a bar against others; Mr. Ansley demanding of the Souldiery, whether they were a Committe to judge of members without door<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: they said no; but they had command from their Superiours to let none in that had not sate till April, 1653.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inted for <hi>G. Hort<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n;</hi> to prevent mis-information.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
